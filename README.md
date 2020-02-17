@@ -1,5 +1,5 @@
 # RUN
-This is a PyTorch implementation of the [32nd Workshop on Image Processing and Image Understanding (IPIU 2020)](http://www.ipiu.or.kr/2020/index.php) paper, Residual U-shaped Network for Image Denoising.
+This is a PyTorch implementation of the [32nd Workshop on Image Processing and Image Understanding (IPIU 2020)](http://www.ipiu.or.kr/2020/index.php) paper, [Residual U-shaped Network for Image Denoising](IPIU_RUN.pdf).
 
 If you find our project useful in your research, please consider citing:
 ~~~
