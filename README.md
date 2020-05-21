@@ -53,3 +53,5 @@ If you have any question about the code or paper, feel free to ask me to <ksmh16
 
 # Acknowledgement
 Thanks for [SaoYan](https://github.com/SaoYan/DnCNN-PyTorch) who gave the implementaion of DnCNN.
+
+This work was supported by the BK21 PLUS(Brain Korea 21 Program for Leading Universities & Students) funded by the Ministry of Education, Korea. (H0301-14-1018)
