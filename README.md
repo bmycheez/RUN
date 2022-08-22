@@ -22,9 +22,9 @@ There are other options you can choose.
 Please refer to dataset.py.  
 
 # Proposed algorithm
-![network](network1.png)
-![res_block](residual_block1.png)
-![scaling_layers](scaling_layers1.png)
+![network](network.png)
+![res_block](residual_block.png)
+![scaling_layers](scaling_layers.png)
 
 # Training
 Use the following command to use our training codes
