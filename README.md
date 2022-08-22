@@ -48,6 +48,8 @@ Please refer to test.py.
 ![table2](table2.png)
 ![table3](table3.png)
 
+Results are measured by the [code](https://github.com/bmycheez/Metrics).
+
 # Contact
 If you have any question about the code or paper, feel free to ask me to <ksmh1652@gmail.com>.
 
